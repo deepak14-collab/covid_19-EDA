@@ -39,3 +39,15 @@ COVID_19_EDA/
 ├── notebooks/
 ├── covid_19_eda.ipynb
 ├── README.md
+
+⭐ Conclusion
+
+This project demonstrates practical skills in:
+
+Data Analysis
+Data Cleaning
+Data Visualization
+Python for Data Analysis
+It helps in understanding real-world pandemic data through analytical and visual approaches.
+
+
